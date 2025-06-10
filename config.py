@@ -32,8 +32,6 @@ AUTO_RAID_CONFIG = {
 
 NO_BAN_KICK_ID = {
     1308142665749237771,       # Put Whitelist ID
-    ,       # No Ban & No Kick
-    ,
 }
 
 BOT_PRESENCE = {
